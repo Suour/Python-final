@@ -1,8 +1,6 @@
 # Python-final
 python tkinter GUI for a price checker , for my final
-whats cheaper 2 15oz rebulls on sale for 2 for $5.50 
-or 1 20oz rebull for 3$
-well thats 30oz for 5.50 or 40oz for 6$ 
+whats cheaper 2 15oz rebulls on sale for 2 for $5.50 or 1 20oz rebull for 3$ well thats 30oz for 5.50 or 40oz for 6$ 
 so thats $0.183 per ounce or $0.15 per ounce
 so turns out the sale was a lie and actualy cost you more money!
 The price checker GUI will calculate the price per unit and expose the lies of a "sale"

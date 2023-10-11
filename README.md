@@ -1,4 +1,16 @@
-# Python-final
-# python tkinter GUI for a price checker , for my final whats cheaper 2 15oz rebulls on sale for 2 for $5.50 or 1 20oz rebull for 3$ well thats 30oz for 5.50 or 40oz for 6$ so thats $0.183 per ounce or $0.15 per ounce so turns out the sale was a lie and actualy cost you more money! The price checker GUI will calculate the price per unit and expose the lies of a "sale" another good example is that mcdonalds used to sell a 4 peice chicken nugget for $1 and a 10 peice was $4 ordering 3 $1 4 peice nuggets gives you 12 nuggets and only cost $3 and a 10 peice cost $4 so your getting more nuggets and its cheaper. Also with a 10 peice they only give you 2 sauces where with 3, 4 peice nugetts you get 3 sauces. Then theres the cost for the containers that mcdonalds looses out on as well. 3 4 peice carboard containers will cost more than a single 10 peice container/box.
+'''
+this program will take inputs for
+1. the amount of items
+2. the measurment amount of units per single item (which is multiplied by amount of items to find the total amount of units)
+3. The total price (price of all items if more than 1)
+4. click the calculate button to find the cost per single unit of measure (amount x units / price = price per unit) then displays and saves the calculation in a history window
+5. a button to clear the input boxes
+6. a button the open the history window
+7. a exit button the close the program
+the history window
+1. any previous calculations done, will be saved and displayed in a list here
+2. A button the clear the history, deleting the list of previous calculations
+3. A exit button the close the history window (it really just hides the window and it remains open. to allow the history to be modified easier)
+'''
 
 

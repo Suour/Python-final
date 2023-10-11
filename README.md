@@ -1,4 +1,8 @@
 '''
+RUNNING THE PROGRAM
+to run the program download the zip and open the folder in VS Code then run the python code. The other files are photos used in the application so make sure you click open folder in VS Code and not open file, to make sure you open evrything and allow the photos to load into the python.
+
+OPERATING THE PROGRAM
 this program will take inputs for
 1. the amount of items
 2. the measurment amount of units per single item (which is multiplied by amount of items to find the total amount of units)

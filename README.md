@@ -35,7 +35,7 @@ ill click clear inputs to clear all the entry fields
 4. now i calculate and get 0.04423
 
 now I will open the history window and see both calculations
-I notice that the can cost less per unit, which is the goal of the program, so i but that option or continue to test other options
+I notice that the can cost less per unit, which is the goal of the program, so i buy that option or continue to test other options
 but out of curiousity lets also see if cheaper means we get less total oz's of soda.
 this is something i needed to calculate by multiplying 12 cans x 12 oz to get 144 total oz's at 5.98
 then 2, 2 liter bottles x 67.6 oz's to get a total of 135.2 total oz's at 5.98
